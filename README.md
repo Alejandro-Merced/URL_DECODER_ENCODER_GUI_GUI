@@ -1,4 +1,4 @@
-Puedes descargar el **archivo ejecutable .exe** en la seccion de **releases**:
+Puedes descargar el **archivo ejecutable .exe** en la sección de **releases**:
 
 https://github.com/Alejandro-Merced/URL_DECODER_ENCODER_GUI_GUI/releases/tag/v1.0
 
