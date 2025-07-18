@@ -8,7 +8,9 @@ Diseñado para tener un programa ligero que te permita cambiar el formato de una
 **EJEMPLO:**
 
 **Encoded:** Hello%20World%21               **Decoded:** Hello World!
+
 **Encoded:** search%3Fq%3DURL%20encoding    **Decoded:** search?q=URL encoding
+
 **Encoded:** Caf%C3%A9                      **Decoded:** Café
 
 
